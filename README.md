@@ -22,8 +22,8 @@ const fahim = {
   role: "Data Analyst",
   education: "BCA · SGPA 9.67",
   location: "Pune, India",
-  stack: ["Python", "SQL", "Pandas", "Power BI", "Excel", "GitHub"],
-  projects: 6
+  stack: ["Python", "SQL", "Pandas", "Power BI", "Excel", "GitHub", "C++", "Java", "PL/SQL"],
+  projects: 10+
 };
 ```
 
@@ -39,7 +39,7 @@ const fahim = {
 
 Cleaned multi-region retail sales data and built an interactive Power BI dashboard using SQL window functions and Pandas-driven trend analysis.
 
-`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook`
+`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Sales-Analysis-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Sales-Analysis-Project&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -50,7 +50,7 @@ Cleaned multi-region retail sales data and built an interactive Power BI dashboa
 
 Standardized raw financial transaction data and built a Power BI dashboard visualizing income vs. expenses, cash flow, and category-wise spending patterns.
 
-`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook`
+`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Finance-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Finance-analysis&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -63,7 +63,7 @@ Standardized raw financial transaction data and built a Power BI dashboard visua
 
 Analyzed patient, doctor, and appointment data using SQL window functions and Python/Pandas, visualized through an interactive Power BI dashboard.
 
-`Python` `SQL` `Pandas` `Power BI` `Excel`
+`Python` `SQL` `Pandas` `Power BI` `Excel` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Hospital-Data-Analysis-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Hospital-Data-Analysis-project&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -74,7 +74,7 @@ Analyzed patient, doctor, and appointment data using SQL window functions and Py
 
 Cleaned banking/transaction records and used SQL joins, aggregates, and window functions plus Pandas EDA to power a Power BI dashboard of customer and transaction insights.
 
-`SQL` `Pandas` `Power BI` `Excel`
+`SQL` `Pandas` `Power BI` `Excel` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Indian-Banking-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Indian-Banking-Analysis&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -87,7 +87,7 @@ Cleaned banking/transaction records and used SQL joins, aggregates, and window f
 
 Performed the full range of SQL-based data analysis operations required for a data analyst role — extraction, joins, aggregations, and window functions — on an online delivery dataset.
 
-`SQL`
+`SQL` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Online-delivey-Analysis-IN-sql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Online-delivey-Analysis-IN-sql&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -98,7 +98,7 @@ Performed the full range of SQL-based data analysis operations required for a da
 
 A Python-based management system built for a protein shop *(repo name kept as-is, though it actually manages protein shop operations)*.
 
-`Python`
+`Python` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Cafe-managment-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Cafe-managment-system&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
