@@ -158,25 +158,8 @@ A Python-based management system built for a protein shop *(repo name kept as-is
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahim-yadgir&show_icons=true&theme=github_dark&border_color=39d353&hide_border=false&icon_color=39d353&title_color=7dd3fc" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-yadgir&layout=compact&theme=github_dark&border_color=39d353&hide_border=false&title_color=7dd3fc" alt="Top Languages" height="165"/>
-
-<br/><br/>
-
-<sub>top languages</sub><br/>
-![Python](https://img.shields.io/badge/Python-39d353?style=for-the-badge&logo=python&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=black)
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=fahim-yadgir&theme=github-dark-blue&border=39d353&hide_border=false&ring=39d353&fire=7dd3fc" alt="GitHub Streak"/>
 
-</div>
-
-### 🏆 trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fahim-yadgir&no-frame=true&no-bg=true&theme=algolia&row=1" alt="Trophies"/>
 </div>
 
 <br/>
