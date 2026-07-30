@@ -83,13 +83,13 @@ Cleaned banking/transaction records and used SQL joins, aggregates, and window f
 <tr>
 <td width="50%" valign="top">
 
-**🚚 [Online Delivery Analysis](https://github.com/fahim-yadgir/Online-delivey-Analysis-IN-sql)**
+**📉 [Customer Churn Analysis](https://github.com/fahim-yadgir/Customer-Churn-Analysis)**
 
-Performed the full range of SQL-based data analysis operations required for a data analyst role — extraction, joins, aggregations, and window functions — on an online delivery dataset.
+Analyzed customer behavior and transaction patterns to identify key churn drivers, using SQL for data extraction/aggregation and Python/Pandas for EDA, visualized through an interactive Power BI dashboard.
 
-`SQL` `GitHub`
+`Python` `SQL` `Pandas` `Power BI` `Excel` `GitHub`
 
-<a href="https://github.com/fahim-yadgir/Online-delivey-Analysis-IN-sql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Online-delivey-Analysis-IN-sql&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
+<a href="https://github.com/fahim-yadgir/Customer-Churn-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Customer-Churn-Analysis&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
 </td>
 <td width="50%" valign="top">
