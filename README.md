@@ -17,7 +17,7 @@
 
 ### 👤 Who I Am
 
-```typescript
+\`\`\`typescript
 const fahim = {
   role: "Data Analyst",
   secondarySkill: "Frontend Developer",
@@ -27,7 +27,7 @@ const fahim = {
   alsoKnows: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "GitHub"],
   projects: 10+
 };
-```
+\`\`\`
 
 ---
 
@@ -130,16 +130,34 @@ A gym/fitness web app built with React and Tailwind CSS, designed specifically t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahim-yadgir&show_icons=true&theme=nord&border_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fahim-yadgir&show_icons=true&theme=nord&border_color=7dd3fc&hide_border=false&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=fahim-yadgir&theme=nord&border=7dd3fc&hide_border=false" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=fahim-yadgir&theme=nord&border=7dd3fc&hide_border=false&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
 </div>
 
 #### 📅 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim-yadgir&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim-yadgir&theme=react-dark&hide_border=true&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" alt="Activity Graph"/>
+</div>
+
+#### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahim-yadgir/fahim-yadgir/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahim-yadgir/fahim-yadgir/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/fahim-yadgir/fahim-yadgir/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+#### 🧊 3D Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/fahim-yadgir/fahim-yadgir/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
@@ -156,5 +174,3 @@ A gym/fitness web app built with React and Tailwind CSS, designed specifically t
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer)
-
-</div>
