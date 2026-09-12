@@ -76,7 +76,7 @@ Analyzed patient, doctor, and appointment data using SQL window functions and Py
 
 Cleaned banking/transaction records and used SQL joins, aggregates, and window functions plus Pandas EDA to power a Power BI dashboard of customer and transaction insights.
 
-`SQL` `Pandas` `Power BI` `Excel` `GitHub`
+`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Indian-Banking-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Indian-Banking-Analysis&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -89,7 +89,7 @@ Cleaned banking/transaction records and used SQL joins, aggregates, and window f
 
 Analyzed customer behavior and transaction patterns to identify key churn drivers, using SQL for data extraction/aggregation and Python/Pandas for EDA, visualized through an interactive Power BI dashboard.
 
-`Python` `SQL` `Pandas` `Power BI` `Excel` `GitHub`
+`Python` `SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Customer-Churn-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Customer-Churn-Analysis&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
@@ -100,7 +100,7 @@ Analyzed customer behavior and transaction patterns to identify key churn driver
 
 A gym/fitness web app built with React and Tailwind CSS, designed specifically to let clients book personal training sessions with trainers online.
 
-`React` `Tailwind CSS` `Vite` `JavaScript` `GitHub`
+`HTML` `CSS` `React` `Tailwind CSS` `Vite` `JavaScript` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Nizam-Fitness"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Nizam-Fitness&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
