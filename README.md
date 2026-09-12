@@ -23,7 +23,7 @@ const fahim = {
   secondarySkill: "Frontend Developer",
   education: "BCA · SGPA 9.67",
   location: "Pune, India",
-  coreStack: ["Python", "SQL", "Pandas", "Power BI","Tablue", "Excel"],
+  coreStack: ["Python", "SQL", "Pandas", "Power BI","Tablue", "Excel" , "GitHub"],
   alsoKnows: ["HTML", "CSS", "Vite","JavaScript", "React", "Tailwind CSS", "GitHub"],
   projects: 10+
 };
@@ -41,7 +41,7 @@ const fahim = {
 
 Cleaned multi-region retail sales data and built an interactive Power BI dashboard using SQL window functions and Pandas-driven trend analysis.
 
-`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook`
+`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 <a href="https://github.com/fahim-yadgir/Sales-Analysis-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim-yadgir&repo=Sales-Analysis-Project&theme=nord&border_color=7dd3fc&hide_border=false" width="100%"/></a>
 
