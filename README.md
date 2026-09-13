@@ -23,7 +23,8 @@ const fahim = {
   secondarySkill: "Frontend Developer",
   education: "BCA · SGPA 9.67",
   location: "Pune, India",
-  coreStack: ["Python", "SQL", "Pandas", "Power BI","Tablue", "Excel" , "GitHub"],
+  coreStack: ["Python", "SQL", "Pandas", "Power BI","Tablue", "Excel" , "GitHub"]
+  <br>
   alsoKnows: ["HTML", "CSS", "Vite","JavaScript", "React", "Tailwind CSS", "GitHub"],
   projects: 10+
 };
