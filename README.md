@@ -203,9 +203,39 @@ A fitness website built with React and Tailwind CSS for personal training and on
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahim-yadgir&show_icons=true&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<table>
+<tr>
 
-<img src="https://streak-stats.demolab.com?user=fahim-yadgir&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" height="165"/>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahim-yadgir&show_icons=true&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=fahim-yadgir&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
+
+</td>
+
+<td align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<h2>102</h2>
+
+<p>🥈 2nd Highest<br>Streak</p>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
