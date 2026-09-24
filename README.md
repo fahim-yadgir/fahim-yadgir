@@ -43,7 +43,7 @@ const fahim = {
     "Tailwind CSS",
     "Vite"
   ],
-  projects: "10+"
+  projects: "15+"
 };
 ```
 
