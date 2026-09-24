@@ -41,6 +41,7 @@ const fahim = {
     "JavaScript",
     "React",
     "Tailwind CSS",
+    "PHP",
     "Vite"
   ],
   projects: "15+"
