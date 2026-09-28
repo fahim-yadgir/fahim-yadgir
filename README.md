@@ -79,7 +79,7 @@ Cleaned multi-region retail sales data and built an interactive Power BI dashboa
 
 Analyzed financial transaction data and created a Power BI dashboard showing income, expenses, cash flow, and category-wise spending.
 
-`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook`
+`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 </td>
 
