@@ -111,7 +111,7 @@ Analyzed patient, doctor, and appointment data using SQL and Python/Pandas and v
 
 Cleaned banking and transaction data and used SQL, Pandas, and Power BI to generate customer and transaction insights.
 
-`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook`
+`SQL` `Pandas` `Power BI` `Excel` `Jupyter Notebook` `GitHub`
 
 </td>
 
