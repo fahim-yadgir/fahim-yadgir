@@ -214,13 +214,6 @@ A responsive wedding and decoration website built with React, Vite and Tailwind 
 <div align="center">
 
 <table>
-<tr>
-
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fahim-yadgir&show_icons=true&theme=nord&border_color=7dd3fc&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
-
-</td>
 
 <td align="center">
 
