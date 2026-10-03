@@ -98,7 +98,7 @@ Analyzed financial transaction data and created a Power BI dashboard showing inc
 
 Analyzed patient, doctor, and appointment data using SQL and Python/Pandas and visualized insights using Power BI.
 
-`Python` `SQL` `Pandas` `Power BI` `Excel`
+`Python` `SQL` `Pandas` `Power BI` `Excel` `GitHub`
 
 </td>
 
@@ -130,7 +130,7 @@ Cleaned banking and transaction data and used SQL, Pandas, and Power BI to gener
 
 Analyzed customer behavior and transaction patterns to identify churn-related insights using SQL, Python, Pandas, and Power BI.
 
-`Python` `SQL` `Pandas` `Power BI` `Excel`
+`Python` `SQL` `Pandas` `Power BI` `Excel` `GitHub`
 
 </td>
 
