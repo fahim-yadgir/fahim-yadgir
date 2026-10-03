@@ -45,7 +45,7 @@ const fahim = {
     "PHP",
     "Vite"
   ],
-  projects: "15+"
+  projects: "16+"
 };
 ```
 
