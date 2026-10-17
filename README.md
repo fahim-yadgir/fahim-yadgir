@@ -207,42 +207,7 @@ A responsive wedding and decoration website built with React, Vite and Tailwind 
 <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<table>
-
-<td align="center">
-
-<img src="https://streak-stats.demolab.com?user=fahim-yadgir&theme=nord&border=7dd3fc&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="GitHub Streak Stats"/>
-
-</td>
-
-<td align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<h2>102</h2>
-
-<p>🥈 2nd Highest<br>Streak</p>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
