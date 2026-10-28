@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Fahim%20Yadgir&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%E2%80%A2%20Turning%20Data%20into%20Decisions&descAlignY=55&descSize=18" width="100%"/>
@@ -45,11 +44,20 @@ const fahim = {
     "PHP",
     "Vite"
   ],
-  projects: "16+"
+  projects: "16+",
+  openToWork: true
 };
 ```
 
 ---
+
+## 🔥 Current Updates
+
+- 🔭 **Currently working on:** _(add your latest project here, e.g. an end-to-end Power BI + SQL dashboard)_
+- 🌱 **Currently learning:** _(e.g. advanced SQL, DAX, Tableau, statistics, or React)_
+- 📊 **Latest project:** _(add project name + link)_
+- 💼 **Open to:** Data Analyst roles, internships, and freelance projects
+- 📫 **Reach me:** fahimyadgir07@gmail.com
 
 ## 🚀 Featured Projects
 
@@ -183,31 +191,22 @@ A responsive wedding and decoration website built with React, Vite and Tailwind 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
-<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-</p>
-
-### 🔧 Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,php" alt="Languages"/>
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-<img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=react" alt="React"/>
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
-<img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend"/>
 </p>
 
+### 🔧 Development Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
+</p>
+
+---
 
 ## 📫 Connect With Me
 
